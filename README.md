@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pitossomo
 - 👀 I’m interested in creating systems for turning hard tasks to easier ones.
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning React and NodeJS
 - 💞️ I’m looking to get professional experience on development 
-- 📫 How to reach me @ [Linkedin](https://www.linkedin.com/in/pedrocarvalhoeng/)
+- 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/pedrocarvalhoeng/)
