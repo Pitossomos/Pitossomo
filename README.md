@@ -16,8 +16,11 @@
 
 ---
 
-- 👋 Hi, I’m @Pitossomo
-- 👀 I’m interested in creating systems for turning hard tasks to easier ones.
-- 🌱 I’m currently learning React and NodeJS
-- :computer: I’m looking to get professional experience on development 
+  Hi, I'm:
+- 👋 @Pitossomo
+- 👀 interested in creating systems for turning hard tasks to easier ones.
+- 👨‍🏭 looking for professional oportunities on development and data analysis
+
+- 🧱 Since 2012, I’ve built plenty of JS, Node and React applications
+- 🌱 Now, I'm (re)learning some Python, R and Data Analysis
 - 📫 Reach me @[Linkedin](https://www.linkedin.com/in/pedrocarvalhoeng/)
