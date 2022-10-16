@@ -9,8 +9,8 @@
   <br />
   
   <h3>🔥 My Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=pitossomo&count_private=true&&hide=contribs&show_icons=true&theme=codeSTACKr&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitossomo&layout=compact&theme=codeSTACKr" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pitossomo&count_private=true&&hide=contribs&show_icons=true&theme=codeSTACKr" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitossomo&layout=compact&theme=codeSTACKr&langs_count=8" />
   
 </div>
 
