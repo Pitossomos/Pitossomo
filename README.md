@@ -7,11 +7,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br />
-  
+</div>
+<div>
   <h3>🔥 My Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=pitossomo&count_private=true&&hide=contribs&show_icons=true&theme=codeSTACKr" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitossomo&layout=compact&theme=codeSTACKr&langs_count=6" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=pitossomo&count_private=true&&hide=contribs&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitossomo&layout=compact&langs_count=10" />
 </div>
 
 ---
