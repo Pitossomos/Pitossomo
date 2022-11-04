@@ -3,7 +3,7 @@
   <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
   <br />
   
-  <a href="https://www.linkedin.com/in/pedrocarvalhoeng/">
+  <a href="https://www.linkedin.com/in/pedrohteles/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br />
@@ -24,4 +24,4 @@
   
 - 🧱 Since 2012, I’ve built plenty of JS, Node and React applications
 - 🌱 Now, I'm (re)learning some Python, R and Data Analysis
-- 📫 Reach me @[Linkedin](https://www.linkedin.com/in/pedrocarvalhoeng/)
+- 📫 Reach me @[Linkedin](https://www.linkedin.com/in/pedrohteles/)
