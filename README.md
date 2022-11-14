@@ -19,9 +19,9 @@
   Hi, I'm:
 - 👋 @Pitossomo
 - 👀 interested in creating systems for turning hard tasks to easier ones.
-- 👨‍🏭 looking for professional oportunities on development and data analysis
+- 👨‍🏭 looking for professional oportunities on web development
 <br />
   
-- 🧱 Since 2012, I’ve built plenty of JS, Node and React applications
-- 🌱 Now, I'm (re)learning some Python, R and Data Analysis
+- 🧱 Since 2012, I’ve built plenty of Javascript applications
+- Experienced Typescript, Node, Next, React, MongoDB, MySQL and many other languages and technologies.
 - 📫 Reach me @[Linkedin](https://www.linkedin.com/in/pedrohteles/)
