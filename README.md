@@ -10,8 +10,8 @@
 </div>
 <div>
   <h3>🔥 My Stats</h3>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pitossomo&count_private=true&show_icons=true&theme=dracula" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitossomo&layout=compact&langs_count=6&theme=dracula" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pitossomo&count_private=true&show_icons=true&theme=dracula" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitossomo&layout=compact&langs_count=6&theme=dracula" />
 </div>
 
 ---
