@@ -10,8 +10,8 @@
 </div>
 <div>
   <h3>🔥 My Stats</h3>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pitossomo&count_private=true&show_icons=true&theme=dracula" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitossomo&layout=compact&langs_count=6&theme=dracula" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pitossomo&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitossomo&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true" />
 </div>
 
 ---
@@ -19,9 +19,9 @@
   Hi, I'm:
 - 👋 @Pitossomo
 - 👀 interested in creating systems for turning hard tasks to easier ones.
-- 👨‍🏭 looking for professional oportunities on web development
+- 👨‍🏭 pursuing awesome projects to contribute to
 <br />
   
-- 🧱 Since 2012, I’ve built plenty of Javascript applications
+- 🧱 Since 2012, I’ve built plenty of Javascript applications, as well as m
 - Experienced Typescript, Node, Next, React, MongoDB, MySQL and many other languages and technologies.
 - 📫 Reach me @[Linkedin](https://www.linkedin.com/in/pedrohteles/)
