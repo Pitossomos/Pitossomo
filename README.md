@@ -17,7 +17,7 @@
 - 👨‍🏭 pursuing awesome projects to contribute to
 <br />
   
-- 🧱 Since 2012, I’ve built plenty of Javascript applications, as well as m
+- 🧱 Since 2012, I’ve built plenty of Javascript applications
 - Experienced Typescript, Node, Next, React, MongoDB, MySQL and many other languages and technologies.
 - 📫 Reach me @[Linkedin](https://www.linkedin.com/in/pedrohteles/)
 
