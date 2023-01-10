@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="200em" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Pitossomo%20render&fontSize=90" />
   <br />
   
   <a href="https://www.linkedin.com/in/pedrohteles/">
