@@ -1,6 +1,8 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Pitossomo%20render&fontSize=90" />
+  <img src="https://i.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.webp" alt="Man coding" />
+  <br />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&duration=3000&pause=1000&color=36B821&center=true&vCenter=true&width=435&lines=Bem+vindo+ao+meu+perfil;Welcome+to+my+profile;%E7%A7%81%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D" alt="Typing SVG" /></a>
   <br />
   
   <a href="https://www.linkedin.com/in/pedrohteles/">
@@ -10,17 +12,16 @@
 </div>
 
 ---
-
-  Hi, I'm:
-- 👋 @Pitossomo
-- 👀 interested in creating systems for turning hard tasks to easier ones.
-- 👨‍🏭 pursuing awesome projects to contribute to
+<div align="center">
+  <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+</div>
 <br />
-  
-- 🧱 Since 2012, I’ve built plenty of Javascript applications
-- Experienced Typescript, Node, Next, React, MongoDB, MySQL and many other languages and technologies.
-- 📫 Reach me @[Linkedin](https://www.linkedin.com/in/pedrohteles/)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&pause=1000&color=42E128&vCenter=true&multiline=true&width=600&height=75&lines=I'm+interested+in+turning+hard+tasks+to+easier+ones;Since 2012 pursuing+awesome+projects+to+be+part+of" alt="Typing SVG" /></a>
+<br />
 ---
 
 <div>
