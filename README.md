@@ -23,10 +23,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&pause=1000&color=42E128&vCenter=true&multiline=true&width=600&height=75&lines=I'm+interested+in+turning+hard+tasks+to+easier+ones;Since 2012 pursuing+awesome+projects+to+be+part+of" alt="Typing SVG" /></a>
 <br />
 
-<!--
----
-<div>
-  <h3>🔥 My Stats</h3>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pitossomo&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitossomo&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true" />
+<details align="center">
+  <summary><h3>🔥 My Stats</h3></summary>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pitossomo&count_private=true&show_icons=true&theme=merko&hide_border=true" /><br />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pitossomo&layout=compact&langs_count=6&theme=merko&hide_border=true" /><br />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Pitossomo&theme=merko&hide_border=true" />
 </div>
