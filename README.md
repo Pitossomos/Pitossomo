@@ -12,6 +12,7 @@
 </div>
 
 ---
+
 <div align="center">
   <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
@@ -23,9 +24,19 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&pause=1000&color=42E128&vCenter=true&multiline=true&width=600&height=75&lines=I'm+interested+in+turning+hard+tasks+to+easier+ones;Since 2012 pursuing+awesome+projects+to+be+part+of" alt="Typing SVG" /></a>
 <br />
 
+---
+
+# Github Stats
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pitossomo&include_all_commits=true&count_private=true&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" />
   <img height="180em" src="https://streak-stats.demolab.com?user=Pitossomo&theme=merko&hide_border=true&hide=[]" />
   <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitossomo&layout=compact&langs_count=10&theme=merko&hide_border=true" />
 
 </div>
+
+---
+
+# DIO Stats
+
+!(DIO Skills)[https://dio-users.rj.r.appspot.com/api/v1/skills?username=pedro_h_teles]
