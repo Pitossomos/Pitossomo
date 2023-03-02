@@ -39,5 +39,5 @@
 # DIO Stats
 
 <div align="center">
-  <img height="180em" src="https://dio-users.rj.r.appspot.com/api/v1/skills?username=pedro_h_teles" />
+  <img height="180em" src="https://raw.githubusercontent.com/Pitossomo/dio-users-api/f59d7c146a2b50cdb3f1a661df7604c6a7fd7fe1/public/skills-example.svg" />
 </div>
