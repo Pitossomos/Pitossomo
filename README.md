@@ -38,4 +38,6 @@
 
 # DIO Stats
 
-![DIO Skills Stats](https://raw.githubusercontent.com/Pitossomo/dio-users-api/f59d7c146a2b50cdb3f1a661df7604c6a7fd7fe1/public/skills-example.svg)
+<div align="center">
+  <img alt="DIO Skills Stats" src="https://raw.githubusercontent.com/Pitossomo/dio-users-api/f59d7c146a2b50cdb3f1a661df7604c6a7fd7fe1/public/skills-example.svg" />
+</div>
