@@ -13,14 +13,6 @@
 
 ---
 
-<div align="center">
-  <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-</div>
-<br />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&pause=1000&color=42E128&vCenter=true&multiline=true&width=600&height=75&lines=I'm+interested+in+turning+hard+tasks+to+easier+ones;Since 2012 pursuing+awesome+projects+to+be+part+of" alt="Typing SVG" /></a>
 <br />
 
