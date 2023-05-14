@@ -13,7 +13,7 @@
 
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&pause=1000&color=42E128&vCenter=true&multiline=true&width=600&height=75&lines=I'm+interested+in+turning+hard+tasks+to+easier+ones;Since 2012 pursuing+awesome+projects+to+be+part+of" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&pause=1000&color=42E128&vCenter=true&multiline=true&width=600&height=75&lines=I'm+interested+in+turning+hard+tasks+into+easier+ones;Since 2012 pursuing+awesome+projects+to+be+part+of" alt="Typing SVG" /></a>
 <br />
 
 ---
