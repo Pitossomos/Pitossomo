@@ -25,11 +25,3 @@
   <img height="180em" src="https://streak-stats.demolab.com?user=Pitossomo&theme=merko&hide_border=true&hide=[]" />
   <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitossomo&layout=compact&langs_count=10&theme=merko&hide_border=true" />
 </div>
-
----
-
-# DIO Stats
-
-<div align="center">
-  <img alt="DIO Skills Stats" src="https://raw.githubusercontent.com/Pitossomo/dio-users-api/f59d7c146a2b50cdb3f1a661df7604c6a7fd7fe1/public/skills-example.svg" />
-</div>
